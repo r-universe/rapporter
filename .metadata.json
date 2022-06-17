@@ -1,0 +1,14 @@
+[
+  {
+    "package": "pander",
+    "oncran": true
+  },
+  {
+    "package": "rapport",
+    "oncran": true
+  },
+  {
+    "package": "rapportools",
+    "oncran": true
+  }
+]
