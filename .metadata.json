@@ -1,10 +1,10 @@
 [
   {
-    "package": "rapport",
+    "package": "pander",
     "oncran": true
   },
   {
-    "package": "pander",
+    "package": "rapport",
     "oncran": true
   },
   {
